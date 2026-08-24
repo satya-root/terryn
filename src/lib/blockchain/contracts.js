@@ -1,0 +1,20 @@
+export const TERRYN_NFT_ADDRESS =
+  process.env
+    .NEXT_PUBLIC_TERRYN_NFT_ADDRESS;
+
+export const TERRYN_ESCROW_ADDRESS =
+  process.env
+    .NEXT_PUBLIC_TERRYN_ESCROW_ADDRESS;
+
+export const TERRYN_MARKETPLACE_ADDRESS =
+  process.env
+    .NEXT_PUBLIC_TERRYN_MARKETPLACE_ADDRESS;
+
+export const TERRYN_NFT_DEPLOY_BLOCK =
+  Number(
+    process.env
+      .NEXT_PUBLIC_TERRYN_NFT_DEPLOY_BLOCK
+  );
+
+export const SEPOLIA_CHAIN_ID =
+  11155111;
