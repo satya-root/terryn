@@ -108,13 +108,3 @@ npm run lint     # Run ESLint
 ## Backend integration
 
 Terryn uses server actions to communicate with a backend API for authentication, profiles, entity submissions, and administrative workflows. Set `NEXT_PUBLIC_API_URL` to the base URL of the backend API before running the application.
-
-## Deployment
-
-The application can be deployed to platforms that support Next.js, such as Vercel. The deployed Terryn application is available at [terryn.vercel.app](https://terryn.vercel.app).
-
-Before deploying, configure all required environment variables in the hosting provider and ensure the backend API and blockchain contracts are accessible from the deployment environment.
-
-## License
-
-No license has been specified for this repository yet.
