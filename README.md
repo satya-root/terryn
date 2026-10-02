@@ -102,7 +102,7 @@ npm run lint     # Run ESLint
 - `/submitted-entities` — View submitted entities
 - `/profile` — View the authenticated user profile
 - `/billing` — Billing and account-related flows
-- `/admin-login` — Revenue-official login
+- `/admin-login` — Revenue official login
 - `/admin-dashboard` — Manage and review submissions
 
 ## Backend integration
